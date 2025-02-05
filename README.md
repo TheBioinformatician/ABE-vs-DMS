@@ -35,5 +35,3 @@ The `requirements.txt` file, located above, lists the necessary Python packages 
 
 ```bash
 pip install -r requirements.txt
-
-
