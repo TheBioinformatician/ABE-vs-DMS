@@ -4,17 +4,13 @@ This repository provides the code and data necessary to reproduce the analysis a
 
 ## Project Overview
 
-The repository is organized by figure, with each folder corresponding to a specific figure from the publication. Inside each folder, you will find the data and Jupyter Notebook(s) required to recreate the analysis and generate the corresponding figure.
+The repository is organized by figure, with each folder corresponding to a specific figure from the publication. Inside each folder, you will find the data and Jupyter Notebook(s) required to recreate the analysis and generate the corresponding figure. **Before running a notebook, please ensure that you set the working directory within the notebook to the location of the data files within that figure's folder.**
 
 ## Data Availability
 
 * **Sequencing Data:** Raw sequencing data is available for download from the Sequence Read Archive (SRA) under BioProject accession number **PRJNA1218278**.
 
 * **Read Counts:** For convenience, we have also included pre-calculated read counts for each sample within their respective figure folders. This allows users to reproduce the analysis without processing the raw sequencing data if desired.
-
-## Reproducibility
-
-Each folder contains a Jupyter Notebook (or notebooks) that walks through the analysis performed for that figure. Running these notebooks will reproduce the figures and results presented in the publication.  **Before running a notebook, please ensure that you set the working directory within the notebook to the location of the data files within that figure's folder.**
 
 
 ## Dependencies
