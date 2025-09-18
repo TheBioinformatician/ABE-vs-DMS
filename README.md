@@ -1,6 +1,6 @@
 # Side-by-Side Comparison of Variant Function Measurements Using Deep Mutational Scanning and Base Editing
 
-This repository provides the code and data necessary to reproduce the analysis and figures presented in the [A side-by-side comparison of variant function measurements using deep mutational scanning and base editing](https://academic.oup.com/nar/article/53/14/gkaf738/8219890) published in ***Nucleic Acid Research**. We are committed to transparency and reproducibility, and this repository facilitates independent validation of our findings.
+This repository provides the code and data necessary to reproduce the analysis and figures presented in the [A side-by-side comparison of variant function measurements using deep mutational scanning and base editing](https://academic.oup.com/nar/article/53/14/gkaf738/8219890) published in ***Nucleic Acid Research***. We are committed to transparency and reproducibility, and this repository facilitates independent validation of our findings.
 
 ## Project Overview
 
