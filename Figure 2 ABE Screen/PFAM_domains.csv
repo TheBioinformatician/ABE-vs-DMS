@@ -1,8 +1,0 @@
-ID,Domain,Start,End,Name,Color,TextLocation
-PF09036,Bcr-Abl oncoprotein oligomerisation domain,3,75,CC,lime,39
-PF00621,RhoGEF domain,503,689,DH,gold,596
-SSF50729,PH domain,706,868,PH,cyan,787
-cd11850,SH3_Abl,966,1019,SH3,skyblue,970
-PF00017,SH2 domain,1028,1103,SH2,magenta,1080
-G3DSA:1.10.510.10:FF:002964,Tyrosine-protein kinase,1137,1402,Kinase,crimson,1270
-PF08919,F-actin binding,1927,2031,FAB,grey,1979
