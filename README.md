@@ -8,7 +8,7 @@ The repository is organized by figure, with each folder corresponding to a speci
 
 ## Data Availability
 
-* **Sequencing Data:** Raw sequencing data is available for download from the Sequence Read Archive (SRA) under BioProject accession number **PRJNA1218278**.
+* **Sequencing Data:** Raw sequencing data is available for download from the Sequence Read Archive (SRA) under BioProject accession number [PRJNA1218278](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1218278).
 
 * **Read Counts:** For convenience, we have also included pre-calculated read counts for each sample within their respective figure folders. This allows users to reproduce the analysis without processing the raw sequencing data if desired.
 
